@@ -1,6 +1,8 @@
 # SampleSet Assignment
 To run this streamlit app, run the following command:
 ```
+pip install -r requirements.txt
+
 streamlit run app.py
 ```
 
